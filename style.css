@@ -110,7 +110,7 @@ header img{
     margin: 0 auto;
 }
 .section1{
-  background-image: url('/img/index_im01.png');
+  background-image: url('index_im01.png');
   background-position: center;
   background-size: cover;
   height: 616px;
@@ -317,7 +317,7 @@ padding-right: 300px;
 .section8{
     text-align: center;
     padding: 40px;
-    background-image: url("/img/index_bg06.jpg");
+    background-image: url("index_bg06.jpg");
 }
 .section9{
     padding: 50px;
